@@ -3,6 +3,7 @@
 namespace CalculatorCP {
 
 	// Change
+	// HI MIKE
 
 	using namespace System;
 	using namespace System::ComponentModel;
